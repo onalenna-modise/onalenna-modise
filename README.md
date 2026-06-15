@@ -10,9 +10,8 @@ My academic background includes advanced statistical methods such as survival an
 
 My final-year research project, **"Comparison of Tie Handling Methods in Survival Analysis"**, achieved a mark of **89%**, while my Statistical Consulting project achieved **90%**.
 
----
 
-## 🎯 Career Interests
+## Career Interests
 
 I am currently seeking opportunities in:
 
@@ -23,9 +22,8 @@ I am currently seeking opportunities in:
 - Risk Analysis
 - Graduate Development Programmes
 
----
 
-## 💻 Technical Skills
+## Technical Skills
 
 ### Programming & Statistical Software
 
@@ -35,7 +33,6 @@ I am currently seeking opportunities in:
 - SPSS
 - Microsoft Excel
 
----
 
 ### Statistical & Analytical Skills
 
@@ -50,9 +47,8 @@ I am currently seeking opportunities in:
 - Statistical Consulting
 - Quantitative Research
 
----
 
-## 📊 Featured Projects
+##  Featured Projects
 
 ### 1. Comparison of Tie Handling Methods in Survival Analysis
 
@@ -60,7 +56,6 @@ A research project investigating methods used to handle tied event times in surv
 
 **Tools:** R, Survival Analysis, Cox Proportional Hazards Models, Statistical Computing
 
----
 
 ### 2. Statistical Computing with R
 
@@ -68,7 +63,6 @@ A collection of projects demonstrating statistical programming, simulation, data
 
 **Tools:** R, Data Analysis, Data Visualization, Statistical Modelling
 
----
 
 ### 3. Statistical Consulting Project
 
@@ -76,9 +70,8 @@ Applied statistical methods to real-world data to provide evidence-based recomme
 
 **Skills:** Data Analysis, Statistical Reporting, Problem Solving
 
----
 
-## 📈 Future Projects
+## Future Projects
 
 I am currently expanding my portfolio with projects focused on:
 
@@ -87,12 +80,11 @@ I am currently expanding my portfolio with projects focused on:
 - Sales Forecasting and Demand Analysis
 - Business Intelligence Dashboards
 
----
 
-## 🤝 Let's Connect
+## Let's Connect
 
 LinkedIn:
-www.linkedin.com/in/onalenna-modise-9873b9253
+www.linkedin.com/in/onalenna-modise26
 
 Email:
 kattymods3@gmail.com
